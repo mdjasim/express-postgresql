@@ -15,7 +15,7 @@ module.exports = {
   },
 
   test: {
-    database: 'books_test',
+    database: 'books',
     username: 'jasim',
     password: '1234',
     host: '127.0.0.1',
